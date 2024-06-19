@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|c:\\users\\mibbbbbn\\unity\\ancoraancora\\assets\\scenes\\scripts\\seduta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\seduta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|c:\\users\\mibbbbbn\\unity\\ancoraancora\\assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\assets\\scenes\\scripts\\interruttorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\interruttorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\assets\\scenes\\scripts\\aprivetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\aprivetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\assets\\scenes\\scripts\\accendicucina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\accendicucina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\assets\\scenes\\scripts\\interruttorecontrollercucina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\interruttorecontrollercucina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|c:\\users\\mibbbbbn\\unity\\ancoraancora\\assets\\scenes\\scripts\\accendisalotto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\accendisalotto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\assets\\scenes\\scripts\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\assets\\scenes\\scripts\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3951-FBF6-45B4-F725-14C9D96AEF10}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\accendiSalotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\scripts\\accendiSalotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwFMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:44:33.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seduta.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\Seduta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\Seduta.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\Seduta.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\Seduta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:27:05.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApriVetro.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\ApriVetro.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\ApriVetro.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\ApriVetro.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\ApriVetro.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:41:09.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterruttoreControllerCucina.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\InterruttoreControllerCucina.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\InterruttoreControllerCucina.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\InterruttoreControllerCucina.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\InterruttoreControllerCucina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:06:02.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccendiCucina.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\AccendiCucina.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\AccendiCucina.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\AccendiCucina.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\AccendiCucina.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:33:26.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterruttoreController.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\InterruttoreController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\InterruttoreController.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\InterruttoreController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\InterruttoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:14:27.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccendiSalotto1.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\AccendiSalotto1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\AccendiSalotto1.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\AccendiSalotto1.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\AccendiSalotto1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:45:31.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "accendiSalotto.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\accendiSalotto.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\accendiSalotto.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\accendiSalotto.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\accendiSalotto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:39:40.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teleport.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\Teleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\Teleport.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\Teleport.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\Teleport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:19:51.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoorController.cs",
+              "DocumentMoniker": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\DoorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\DoorController.cs",
+              "ToolTip": "C:\\Users\\mibbbbbn\\Unity\\ancoraAncora\\Assets\\Scenes\\scripts\\DoorController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\scripts\\DoorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:59:16.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
