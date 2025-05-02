@@ -1,5 +1,5 @@
 # lab_realta_virtuale_1
-University project for Virtual Reality exam, i had to recreate in Blender a virtual enviroment based of a real photo and make an interactable scene in Unity
+University project for Virtual Reality 1 exam, i had to recreate in Blender a virtual enviroment based of a real photo and make an interactable scene in Unity
 <!-- BREAKPOINT -->
 Modeling and scripting process documentation in "Realta Virtuale.pdf" file
 <!-- BREAKPOINT -->
